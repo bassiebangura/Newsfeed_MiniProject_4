@@ -64,3 +64,16 @@ label{
   display: block;
   color: #666;
 }
+
+.showDetail {
+  padding: .5rem;
+  border-radius: .2rem;
+  border-style: none;
+  margin-top: 1.2rem;
+  width: 100%;
+  max-width: 350px;
+  background-color: #5674e2;
+  color: white;
+  font-size: 1.2rem;
+
+}
